@@ -628,7 +628,7 @@ def render_home():
                 <div style="font-size:0.85rem;line-height:2.2;" class="footer-link">
                     <div><a href="https://github.com/girishshirsat" target="_blank">⚙️ GitHub Profile</a></div>
                     <div><a href="https://exploregms.wordpress.com/" target="_blank">🌐 Portfolio</a></div>
-                    <div><a href="https://github.com/girishshirsat" target="_blank">📁 Source Code</a></div>
+                    <div><a href="https://github.com/girishshirsat/TitanicAI" target="_blank">📁 Source Code</a></div>
                 </div>
             </div>
         </div>
