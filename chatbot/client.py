@@ -569,7 +569,7 @@ def render_home():
         <div style="padding:40px 20px;">
             <div style="font-size:1.8rem;font-weight:800;color:white;margin-bottom:8px;">Cutting-Edge Technology</div>
             <div style="color:rgba(255,255,255,0.5);margin-bottom:32px;font-size:0.9rem;">Built with the latest AI and web technologies for optimal performance.</div>
-            <div class="tech-card"><div class="tech-dot"></div><div><div class="tech-name">Mistral-Saba-24B-Instruct</div><div class="tech-desc">Advanced language model</div></div></div>
+            <div class="tech-card"><div class="tech-dot"></div><div><div class="tech-name">llama-3.3-70b-versatile</div><div class="tech-desc">Advanced language model</div></div></div>
             <div class="tech-card"><div class="tech-dot" style="background:#7c3aed"></div><div><div class="tech-name">LangChain</div><div class="tech-desc">LLM orchestration framework</div></div></div>
             <div class="tech-card"><div class="tech-dot" style="background:#f59e0b"></div><div><div class="tech-name">FastAPI</div><div class="tech-desc">High-performance backend</div></div></div>
             <div class="tech-card"><div class="tech-dot" style="background:#10b981"></div><div><div class="tech-name">Streamlit</div><div class="tech-desc">Interactive frontend</div></div></div>
