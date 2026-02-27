@@ -3,7 +3,7 @@ import requests
 import uuid
 import base64
 
-API_URL = "http://localhost:8000"
+API_URL = "https://titanicai.onrender.com"
 
 st.set_page_config(
     page_title="TitanicAI",
